@@ -12,6 +12,7 @@ On this GitHub page, you'll find various projects showcasing my skills and exper
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/erickjsanz/Cloud-Honeypot">Creating Live Honeynet/SOC in Azure</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/erickjsanz/Cloud-Honeypot">Creating Live Honeynet/SOC in Azure</a>|
+| Active Directory and PowerShell          | <a href="https://github.com/erickjsanz/Active-Directory-Lab">Active-Directory-Lab</a>|
 
 ## Tools
 
@@ -42,6 +43,7 @@ On this GitHub page, you'll find various projects showcasing my skills and exper
 
 ## Projects
 - <a href="https://github.com/erickjsanz/Cloud-Honeypot">Creating Live Honeynet/SOC in Azure</a>
+- <a href="https://github.com/erickjsanz/Active-Directory-Lab">Active-Directory-Lab</a>
 
 <h2> 🤳 Connect with me:</h2>
 
